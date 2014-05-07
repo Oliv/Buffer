@@ -26,7 +26,9 @@ If args is set, args is passed to the callback function
     buffer.set(type, src, fn[, args])
 
 Defines the path to use to load images
+
     buffer.path(path)
 
 Removes all images of a type, or a single image
+
     buffer.remove(type[, key])
